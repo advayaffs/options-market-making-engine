@@ -1,0 +1,12 @@
+Command: python options_market_maker.py --csv results/session.csv
+
+Seed 7 | 209 option fills | 183 stock hedges
+Quote edge             +1303.48
+Delta                     -5.43
+Gamma                    -45.38
+Vega                    -187.51
+Theta                    +44.34
+Repricing residual        +4.04
+Trading costs           -231.76
+Ending marked P&L       +881.79
+Maximum drawdown          73.60
